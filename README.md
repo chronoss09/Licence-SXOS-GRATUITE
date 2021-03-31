@@ -23,9 +23,12 @@ Si vous avez un problème avec votre Python, télécharger ce [Crytop](https://w
 
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC.
 
-## Licence gratuite disponible :  
+## Licences gratuite disponible :  
   * Licence par _[Inaki](https://www.mediafire.com/file/pchfm2n1oe8iwee/Licence_Gratuite_SXOS_Free_03_by_Inaki.rar/file)_
   * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
+  * Licence par _[Polo-cha2](https://www.mediafire.com/file/oe4ybf6rjy466jb/Licence_Gratuite_SXOS_Free_04_by_Polo-cha2.rar/file)_
+  * Licence par _[PoloNX](https://www.mediafire.com/file/jx92o1wbo8uo7v6/Licence_Gratuite_SXOS_Free_05_by_PoloNX.rar/file)_
+  * Licence par _[Zoria](https://www.mediafire.com/file/mmw4dspt2r1dvpl/Licence_Gratuite_SXOS_Free_06_by_Zoria.rar/file)_
   
 
 Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ sur _[Discord de Modconsoles](https://discord.gg/yCrp3p5c)_ afin que je le modifie et que je le partage avec la communauté.
