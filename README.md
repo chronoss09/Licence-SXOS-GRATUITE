@@ -11,7 +11,7 @@ Tout d'avoir, vous devez possedé une licence valide installée sur votre consol
   * Se rendre à la ligne __36 "fringerprint = unhexlify("0000000000000000000000000000")"__
   * Remplacer la suite des _0000_ par votre __Fringprint__  
     * Le __Fringprint__ se trouve sur l'application _Album_ sous l'onglet _Licence_  
-  * Excuter le fichier __TX SX spoof ID unpacker__ et patienté quelques secondes
+  * Excuter le fichier __TX SX spoof ID unpacker.py__ et patienté quelques secondes
   * Voila, le fichier _Boot.dat_ a été modifié et contient votre _fringerprint_ qui sera lu par votre _licence.dat_
   * Vous pouvez maintenant partagé le fichier __Boot.dat__ modifié ainsi que votre __licence.dat__ avec la communauté  
 
