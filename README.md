@@ -28,7 +28,7 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
   
 
-Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ par _[mail](chronoss.games@gmail.com)_ afin que je le modifie et que je le partage avec la communauté.
+Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ sur _[Discord de Modconsoles](https://discord.gg/yCrp3p5c)_ afin que je le modifie et que je le partage avec la communauté.
 
 
 ## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler dessus. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes ainsi Zoria, Shadow, Darkstorm et Heykyz.
