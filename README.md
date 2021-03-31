@@ -15,8 +15,14 @@ Tout d'avoir, vous devez possedé une licence valide installée sur votre consol
   * Voila, le fichier Boot.dat a été modifié et contient votre __fringerprint__ qui sera lu par votre __licence.dat"
   * Vous pouvez maintenant partagé le fichier __Boot.dat__ modifié ainsi que votre __licence.dat__ avec la communauté  
 
+## Tuto : Installer le Boot.dat hacker ainsi que sa licence.dat :  
+  * L'installation est très simple, juste extraire le __Boot.dat__ et la __Licence.dat__ à la racine de votre SD.
+
+
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC.
 
 Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ par _[mail](chronoss.games@gmail.com)_ afin que je le modifie et que je le partage avec la communauté.
 
 Si vous avez un problème avec votre Python, télécharger ce [Crytop](xxxx) puis l'executé afin qu'il installe les fichiers qu'il faut.
+
+## Tout d'abord je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler dessus. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes ainsi Zoria alias Linkynimes, Shadow, Darkstorm et Heykyz.
