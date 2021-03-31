@@ -15,14 +15,19 @@ Tout d'avoir, vous devez possedé une licence valide installée sur votre consol
   * Voila, le fichier _Boot.dat_ a été modifié et contient votre _fringerprint_ qui sera lu par votre _licence.dat_
   * Vous pouvez maintenant partagé le fichier __Boot.dat__ modifié ainsi que votre __licence.dat__ avec la communauté  
 
+Si vous avez un problème avec votre Python, télécharger ce [Crytop](https://www.mediafire.com/file/fxkp0ibiesff42t/pycrypto.bat/file) puis l'executé afin qu'il installe les fichiers qu'il faut.
+
 ## Tuto : Installer le Boot.dat hacker ainsi que sa licence.dat gratuite :  
   * L'installation est très simple, juste extraire le __boot.dat__ et la __Licence.dat__ à la racine de votre carte SD puis injecté le fichier __payload.bin__.
 
 
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC.
 
+## Licence gratuite disponible :  
+  * Licence par _[LinkToTheGameDz](https://www.mediafire.com/file/railljyo9v6jzyi/Licence_Gratuit_SXOS_Free_01_by_LinkToTheGameDz.rar/file)_
+  * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
+
 Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ par _[mail](chronoss.games@gmail.com)_ afin que je le modifie et que je le partage avec la communauté.
 
-Si vous avez un problème avec votre Python, télécharger ce [Crytop](xxxx) puis l'executé afin qu'il installe les fichiers qu'il faut.
 
 ## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler dessus. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes ainsi Zoria, Shadow, Darkstorm et Heykyz.
