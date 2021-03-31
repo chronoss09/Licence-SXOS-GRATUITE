@@ -24,9 +24,9 @@ Si vous avez un problème avec votre Python, télécharger ce [Crytop](https://w
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC.
 
 ## Licence gratuite disponible :  
-  * Licence par _[LinkToTheGameDz](https://www.mediafire.com/file/railljyo9v6jzyi/Licence_Gratuit_SXOS_Free_01_by_LinkToTheGameDz.rar/file)_
-  * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
   * Licence par _[Inaki](https://www.mediafire.com/file/pchfm2n1oe8iwee/Licence_Gratuite_SXOS_Free_03_by_Inaki.rar/file)_
+  * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
+  
 
 Envoyez moi votre __licence.dat__ ainsi que votre __fringerprint__ par _[mail](chronoss.games@gmail.com)_ afin que je le modifie et que je le partage avec la communauté.
 
