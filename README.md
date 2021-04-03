@@ -32,7 +32,7 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * Tinfoil (pas d'icônes de jeu dans la section "NEW GAME")
   * Les Cheats ne sont pas encore supporté
   
-Plus d'infos sur _[Discord de Modconsoles](https://discord.gg/yCrp3p5c)_ afin que je le modifie et que je le partage avec ton ami selon ton accord.
+Plus d'infos sur _[Discord de Modconsoles](https://discord.gg/yCrp3p5c)_.
 
 
 ## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler dessus. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes ainsi Zoria, Shadow, Darkstorm, Heykyz, Red-J
