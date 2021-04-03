@@ -8,7 +8,7 @@ Tout d'avoir, vous devez possedé une licence valide installée sur votre consol
     * __TX SX Spoof ID__ téléchargeable à l'adresse suivante : [Script TX SX Spoof ID](https://www.mediafire.com/file/zhy3vjafgsbi4y3/Python-3.9-hacksxos3.1.0.rar/file)  
   * Extraire le _Script TX SX Spoof ID_ et le _Boot.dat_ quelque part sur votre PC
   * Créer un fichier texte nommé __fingerprint.txt__ et inscrivez y votre fingerprint
-      * _Le __Fingprint__ se trouve sur l'application _Album_ sous l'onglet _Licence_  
+      * Le __Fingprint__ se trouve sur l'application _Album_ sous l'onglet _Licence_  
   * Excécuter le script, il lancera en premier lieu, l'installation des modules nécéssaires
   * Après l'installation, le script va automatiquement patché votre boot.dat
   * Voila, le fichier _boot.dat_ a été modifié et contient votre _fingerprint_ qui sera lu par votre _licence.dat_
