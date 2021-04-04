@@ -33,7 +33,9 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * SX Save Managers
   * Tinfoil (pas d'icônes de jeu dans la section "NEW GAME")
     
-Plus d'infos sur _[Discord de Modconsoles](https://discord.gg/yCrp3p5c)_.
+Plus d'infos : 
+  * sur Discord : _[Modconsoles](https://discord.gg/yCrp3p5c)_
+  * sur Gbatemps : _[Hack SXOS](https://gbatemp.net/threads/hack-sxos.582831/)_
 
 
-## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdudre pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz et Red-J.
+## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdude pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz et Red-J.
