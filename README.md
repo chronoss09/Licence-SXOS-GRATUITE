@@ -29,7 +29,7 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * Licence par _[Zoria](https://www.mediafire.com/file/mmw4dspt2r1dvpl/Licence_Gratuite_SXOS_Free_06_by_Zoria.rar/file)_
   
 ## Homebrew SX :  
-  * __SX Dumper patched by mrdude__ : [here](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
+  * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
   * SX Save Managers
   * Tinfoil (pas d'icônes de jeu dans la section "NEW GAME")
     
