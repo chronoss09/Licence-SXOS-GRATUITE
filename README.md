@@ -1,8 +1,8 @@
 # LICENCE SXOS GRATUITE
 
-## Tuto : Spoofer soit même sa propre licence ou celui d'un ami :  
+## Tuto Français : Spoofer soit même sa propre licence ou celui d'un ami !
 
-Tout d'avoir, vous devez possedé une licence valide installée sur votre console puis faire comme suit :  
+Tout d'avoir, vous devez possedé une licence valide installe sur votre console puis faire comme suit :  
   * Télécharger le dernier Boot.dat en date [SXOS_beta_v3.1.0](https://www.mediafire.com/file/z8td5k923wsqs9w/SXOS_beta_v3.1.0.zip/file)
   * __TX SX Spoof ID__ téléchargeable à l'adresse suivante : [Script TX SX Spoof ID](https://www.mediafire.com/file/4hz3upmez3fw43y/Python-3.9-hacksxos3.1.0.rar/file)  
   * Extraire le _Script TX SX Spoof ID_ et le _Boot.dat_ quelque part sur votre PC
@@ -12,6 +12,9 @@ Tout d'avoir, vous devez possedé une licence valide installée sur votre consol
   * Après l'installation, le script va automatiquement patché votre boot.dat
   * Voila, le fichier _boot.dat_ a été modifié et contient votre _fingerprint_ qui sera lu par votre _licence.dat_
   * Vous pouvez maintenant partagé le fichier __boot.dat__ modifié ainsi que votre __licence.dat__ avec votre ami. 
+
+## English Tuto : Spoofer yourself your own license or a friend's one !
+  * Soon (need help)...
 
 ## Tuto : Installer le boot.dat hacker ainsi que sa licence.dat gratuite :  
   * L'installation est très simple, juste extraire le __boot.dat__ et la __Licence.dat__ à la racine de votre carte SD puis injecté le fichier __payload.bin__ à votre console.
