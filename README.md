@@ -36,6 +36,7 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
 Plus d'infos : 
   * sur Discord : _[Modconsoles](https://discord.gg/yCrp3p5c)_
   * sur Gbatemps : _[Hack SXOS](https://gbatemp.net/threads/hack-sxos.582831/)_
+  * Tuto vidéo par _[Deejay87](https://odysee.com/@deejay87:4/SXOS-FREE-LICENCE--SETUP--EMUNAND--CHOIDUJOURNX:8)_
 
 
 ## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdude pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz et Red-J.
