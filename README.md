@@ -33,6 +33,9 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
   * SX Save Managers
   * Tinfoil (pas d'icônes de jeu dans la section "NEW GAME")
+
+## Tuto :  
+  * Lancé SXOS sous le firmware 11.0.1 (tuto en Anglais) par Sthetix : [HOW TO RUN THE SXOS ON FIRMWARE 11.0.1](https://www.sthetix.info/how-to-run-the-sxos-on-firmware-11-0-1/)
     
 Plus d'infos : 
   * sur Discord : _[Modconsoles](https://discord.gg/yCrp3p5c)_
