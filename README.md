@@ -16,12 +16,16 @@ Tout d'abord, vous devez possedé une licence valide installée sur votre consol
 ## English Tuto : Spoof yourself your own license or a friend's one !
   * Soon (need help)...
 
+## Générer sa licence automatiquement :
+  * Grand merci à _MurasakiNX_ qui a conçu un site qui vous permettra de crée une licence valide ainsi qu'un boot.dat grace au fingerprint de votre console ou celle de votre ami, se rendre à l'adresse suivante : __https://please.cracksx.tk__
+       * Remplir le champ vide par votre fingerprint et clicker sur  __Boot.dat__ puis __Licence.dat__
+
 ## Tuto : Installer le boot.dat hacker ainsi que sa licence.dat gratuite :  
   * L'installation est très simple, juste extraire le __boot.dat__ et la __Licence.dat__ à la racine de votre carte SD puis injecté le fichier __payload.bin__ à votre console avec [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases).
 
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC pour exécuter le script.
 
-## Licences gratuite disponible :  
+## Licences gratuites disponible :  
   * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
   * Licence par _[Chronoss v2 avec support des cheats](https://www.mediafire.com/file/pe7m58dr0d73b6q/Licence_Gratuite_SXOS_Free_02_by_Chronoss_with_cheat_support.rar/file)_
   * Licence par _[Inaki](https://www.mediafire.com/file/pchfm2n1oe8iwee/Licence_Gratuite_SXOS_Free_03_by_Inaki.rar/file)_
@@ -43,4 +47,4 @@ Plus d'infos :
   * Tuto vidéo par _[Deejay87](https://odysee.com/@deejay87:4/SXOS-FREE-LICENCE--SETUP--EMUNAND--CHOIDUJOURNX:8)_
 
 
-## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdude pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz et Red-J.
+## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdude pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz, Red-J et MurasakiNX.
