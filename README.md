@@ -32,6 +32,14 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * Licence par _[PoloNX](https://www.mediafire.com/file/jx92o1wbo8uo7v6/Licence_Gratuite_SXOS_Free_05_by_PoloNX.rar/file)_
   * Licence par _[Zoria](https://www.mediafire.com/file/mmw4dspt2r1dvpl/Licence_Gratuite_SXOS_Free_06_by_Zoria.rar/file)_
   * Pack RTU à extraire à la racine de votre carte SD par Deejay87 : _[PACK SXOS 3.1.0 LICENCE FREE - 03.04.21.00](https://drive.google.com/file/d/1se6wPKFrSdIiI_iwGxy64spvLdEIBpyj/view)_
+
+## Custom Licence avec menu modifié :  
+![capture](https://gbatemp.net/attachments/e0c-5inxeaabuyo-jpg.260555/)
+  * Luigi Mansion 3 par Chronoss : 
+      * [Version 1](https://www.mediafire.com/file/rfxiwr3vkvv2co2/Boot_menu_sx_mod_with_Luigi.zip/file)
+      * [Version 2 sans luigi](https://www.mediafire.com/file/0gq0bqagazk8s5o/Boot_menu_sx_mod_Luigi_M3.zip/file)
+  * Atmosphere
+  * Super Nintendo
   
 ## Homebrew SX :  
   * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
