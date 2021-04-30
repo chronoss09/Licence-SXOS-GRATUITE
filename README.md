@@ -35,11 +35,10 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
 
 ## Custom Licence avec menu modifié :  
 ![capture](https://gbatemp.net/attachments/e0c-5inxeaabuyo-jpg.260555/)
-  * Luigi Mansion 3 par Chronoss : 
-      * [Version 1](https://www.mediafire.com/file/rfxiwr3vkvv2co2/Boot_menu_sx_mod_with_Luigi.zip/file)
-      * [Version 2 sans luigi](https://www.mediafire.com/file/0gq0bqagazk8s5o/Boot_menu_sx_mod_Luigi_M3.zip/file)
-  * Atmosphere
-  * Super Nintendo
+  * Tous les thèmes sont disponible sur ce lien : [Custom Menu SX](https://www.mediafire.com/folder/052lbwzulsmm9/Custom_Menu_SX)
+      * Luigi Mansion 3 par Chronoss (5 thèmes)
+      * Nintendo
+      * Free SX Atmo
   
 ## Homebrew SX :  
   * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
