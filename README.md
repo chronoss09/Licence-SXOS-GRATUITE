@@ -38,7 +38,7 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
   * Tous les thèmes sont disponible sur ce lien : [Custom Menu SX](https://www.mediafire.com/folder/052lbwzulsmm9/Custom_Menu_SX)
       * Luigi Mansion 3 par Chronoss (5 thèmes)
       * Nintendo
-      * Free SX Atmo
+      * Free SX Atmo (3 thèmes)
   
 ## Homebrew SX :  
   * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
