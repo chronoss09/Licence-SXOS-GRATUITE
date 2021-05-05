@@ -35,10 +35,9 @@ N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur 
 
 ## Custom Licence avec menu modifié :  
 ![capture](https://gbatemp.net/attachments/e0c-5inxeaabuyo-jpg.260555/)
-  * Tous les thèmes sont disponible sur ce lien : [Custom Menu SX](https://www.mediafire.com/folder/052lbwzulsmm9/Custom_Menu_SX)
-      * Luigi Mansion 3 par Chronoss (5 thèmes)
-      * Nintendo
-      * Free SX Atmo (3 thèmes)
+  * Tous les thèmes sont disponible sur ce lien : [Custom Menu SXOS CFW v1](https://www.mediafire.com/folder/052lbwzulsmm9/Custom_Menu_SX)
+  * Patché vous même votre boot.dat : [Custom Menu SXOS CFW v2](https://gbatemp.net/threads/custom-sxos-cfw.588020/#post-9463428)
+
   
 ## Homebrew SX :  
   * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
