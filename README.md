@@ -1,50 +1,52 @@
 # LICENCE SXOS GRATUITE
 
-## Tuto Français : Spoofer soit même sa propre licence ou celui d'un ami !
+Avec les dernières avancés, il n'est plus nécessaire de faire un spoof de licence SXOS, il est maintenant possible de générer une licence valide depuis l'empreinte digital de votre propre console (__fingerprint__). Il suffit juste du boot.dat du SXOS ainsi que du request-licence.dat générée par votre console.
 
-Tout d'abord, vous devez possedé une licence valide installée sur votre console puis faire comme suit :  
-  * Télécharger le dernier boot.dat en date [SXOS_beta_v3.1.0](https://www.mediafire.com/file/z8td5k923wsqs9w/SXOS_beta_v3.1.0.zip/file)
-  * __TX SX Spoof ID__ téléchargeable à l'adresse suivante : [Script TX SX Spoof ID](https://www.mediafire.com/file/4hz3upmez3fw43y/Python-3.9-hacksxos3.1.0.rar/file)  
-  * Extraire le _Script TX SX Spoof ID_ et le _boot.dat_ quelque part sur votre PC
-  * Créer un fichier texte nommé __fingerprint.txt__ et inscrivez y votre fingerprint
-      * Le __Fingprint__ se trouve sur l'application _Album_ sous l'onglet _Licence_, il faut lancé le cfw SXOS pour l'avoir  
-  * Excécuter le script, il lancera en premier lieu, l'installation des modules nécéssaires
-  * Après l'installation, le script va automatiquement patché votre boot.dat
-  * Voila, le fichier _boot.dat_ a été modifié et contient votre _fingerprint_ qui sera lu par votre _licence.dat_
-  * Vous pouvez maintenant partagé le fichier __boot.dat__ modifié ainsi que votre __licence.dat__ avec votre ami. 
+## Générer une licence valice depuis sa propre console :
 
-## English Tuto : Spoof yourself your own license or a friend's one !
-  * Soon (need help)...
-
-## Générer sa licence automatiquement :
-  * Grand merci à _MurasakiNX_ qui a conçu un site qui vous permettra de crée une licence valide ainsi qu'un boot.dat grace au fingerprint de votre console ou celle de votre ami, se rendre à l'adresse suivante : __https://please.cracksx.tk__
-       * Remplir le champ vide par votre fingerprint et clicker sur  __Boot.dat__ puis __Licence.dat__
-
-## Tuto : Installer le boot.dat hacker ainsi que sa licence.dat gratuite :  
-  * L'installation est très simple, juste extraire le __boot.dat__ et la __Licence.dat__ à la racine de votre carte SD puis injecté le fichier __payload.bin__ à votre console avec [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases).
+  * Télécharger le dernier boot.dat en date [SXOS_beta_v3.1.0](https://www.mediafire.com/file/z8td5k923wsqs9w/SXOS_beta_v3.1.0.zip/file) (fw 11.0.1 max pour le moment)
+  * __TX SX Licence Generator - by Reacher17__ téléchargeable à l'adresse suivante : [Licence Generator](https://www.mediafire.com/file/bmhexo5koxtqf9i/Generator_License_SX_License_Hack.rar/file)  
+  * Extraire les 2 archives "_Licence Generator_ et le "_boot.dat_" quelque part sur votre PC
+  * Mettre le fichier _boot.dat_ à la racine de la carte SD de votre console
+  * Inséré votre carte SD à votre console puis injecter le fichier "_payload.bin_ contenu dans l'archive avec [TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI/releases)
+  * Sur le menu SX, appuyer sur "_Custom CFW_"
+  * Un message vous dira que la _licence.dat_ est introubale et il va crée un fichier "__request-licence.dat__ 
+  * Placer ce fichier dans le même dossier où se trouve le script sur mon votre PC 
+  * Lancer le script et attendre quelque seconde
+  * Un fichier __licence.dat__ est crée
+  * Placer les 2 fichiers (__boot.dat__ & __licence.dat__) à la racince de votre carte SD
+  * Démarrer votre console
+  * Sur le menu SX, appuyer sur "_Boot custom FW_"
+  * Bingo, vous voila sous SXOS
+  * Enjoy !!!
 
 N.B : Il faut avoir [Python 3](https://www.python.org/downloads/) installé sur votre PC pour exécuter le script.
 
-## Licences gratuites disponible :  
-  * Licence par _[Chronoss](https://www.mediafire.com/file/8iwnxusxotcmfc2/Licence_Gratuit_SXOS_Free_02_by_Chronoss.rar/file)_
-  * Licence par _[Chronoss v2 avec support des cheats](https://www.mediafire.com/file/pe7m58dr0d73b6q/Licence_Gratuite_SXOS_Free_02_by_Chronoss_with_cheat_support.rar/file)_
-  * Licence par _[Inaki](https://www.mediafire.com/file/pchfm2n1oe8iwee/Licence_Gratuite_SXOS_Free_03_by_Inaki.rar/file)_
-  * Licence par _[PoloNX](https://www.mediafire.com/file/jx92o1wbo8uo7v6/Licence_Gratuite_SXOS_Free_05_by_PoloNX.rar/file)_
-  * Licence par _[Zoria](https://www.mediafire.com/file/mmw4dspt2r1dvpl/Licence_Gratuite_SXOS_Free_06_by_Zoria.rar/file)_
-  * Pack RTU à extraire à la racine de votre carte SD par Deejay87 : _[PACK SXOS 3.1.0 LICENCE FREE - 03.04.21.00](https://drive.google.com/file/d/1se6wPKFrSdIiI_iwGxy64spvLdEIBpyj/view)_
 
 ## Custom Licence avec menu modifié :  
 ![capture](https://gbatemp.net/attachments/e0c-5inxeaabuyo-jpg.260555/)
-  * Tous les thèmes sont disponible sur ce lien : [Custom Menu SXOS CFW v1](https://www.mediafire.com/folder/052lbwzulsmm9/Custom_Menu_SX)
-  * Patché vous même votre boot.dat : [Custom Menu SXOS CFW v2](https://gbatemp.net/threads/custom-sxos-cfw.588020/#post-9463428)
+Même principe que le script Licence Generator mais celui-ci te donne la possibilité de créer soit même un menu SX à ton goût.
+
+  * Télécharger le script [SX License Hack](https://www.mediafire.com/file/5pl3kkgezvwb3tb/SX_License_Hack.rar/file)
+  * Faite la procédure cité plus haut pour obtenir le fichier _request-licence.dat_
+  * Télécharger un thème de votre choix via ce lien : [Custom Menu SXOS CFW v2](https://gbatemp.net/threads/custom-sxos-cfw.588020/#post-9463428)
+  * Placer les fichiers du thème ainsi que le fichier _request-licence.dat_ dans le même dossier que le script puis exécuter le.
+  * Placer les 2 fichiers (__boot.dat__ & __licence.dat__) à la racince de votre carte SD
+  * Démarrer votre console
+  * Vous voila avec un menu SX modifié à votre goût
+      * Attention à la 4e icônes avant de customisé votre boot.dat, si vous n'en voulez pas, supprimer le fichier _holder.bmp_ contenu dans le dossier _theme_
+  * Appuyer sur "_Boot custom FW_" pour lancé votre SXOS cfw
+  * Bingo, vous voila sous le custom SXOS cfw
+  * Enjoy !!!
 
   
-## Homebrew SX :  
-  * __SX Dumper patched by mrdude__ : [Lien](https://www.mediafire.com/file/bwcpuok8hj867tz/SXDumper_DRM_Patched_by_MrDude.zip/file)
-  * SX Save Managers
-  * Tinfoil (pas d'icônes de jeu dans la section "NEW GAME")
+## Homebrew SX qui fonctionne :  
+  * _SX Dumper_
+  * _SX Save Managers_
+  * _SX Installer (Tinfoil)_
 
-## Tuto :  
+## Tuto Vidéo :
+  * Tuto vidéo (en Français) par Deejay87: _[SXOS-FREE-LICENCE--SETUP--EMUNAND--CHOIDUJOURNX](https://odysee.com/@deejay87:4/SXOS-FREE-LICENCE--SETUP--EMUNAND--CHOIDUJOURNX:8)_
   * Lancé SXOS sous le firmware 11.0.1 (tuto en Anglais) par Sthetix : [HOW TO RUN THE SXOS ON FIRMWARE 11.0.1](https://www.sthetix.info/how-to-run-the-sxos-on-firmware-11-0-1/)
     
 Plus d'infos : 
