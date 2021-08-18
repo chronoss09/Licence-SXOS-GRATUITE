@@ -54,5 +54,27 @@ Plus d'infos :
   * sur Gbatemps : _[Hack SXOS](https://gbatemp.net/threads/hack-sxos.582831/)_
   * Tuto vidéo par _[Deejay87](https://odysee.com/@deejay87:4/SXOS-FREE-LICENCE--SETUP--EMUNAND--CHOIDUJOURNX:8)_
 
-
 ## Tout d'abord, je remercie profondement Reacher17 qui n'a pas baissé les bras depuis qu'il avait commencé à travailler sur le reverse engineering du cfw SX. B&nder pour l'aide apporté au Script, moi même pour la licence fourni pour les testes, mrdude pour la mise à jour du script et le patch des homebrews SX ainsi que Zoria, Shadow, Darkstorm, Hexkyz, Red-J et MurasakiNX.
+
+
+## English by Mrdude
+
+Here's the guide with the graphics and new hacks, with this everything will work the same as on original sxos 3.10
+======================================================================================
+
+**SXOS currently only supports Switch firmware up to 11.0.0** - any newer firmware will fail, you can downgrade using AtmosphereNX and then create an emunand running 11.0.0 firmware for use with SXOS.
+
+Download this file before you continue : [Hack Script and SXOS-GFX.zip](https://www.mediafire.com/file/95t3hu33ktx5aah/Hack_Script_and_SXOS-GFX.zip/file)
+
+1: Copy an untouched clean [SXOS_beta_v3.1.0](https://www.mediafire.com/file/z8td5k923wsqs9w/SXOS_beta_v3.1.0.zip/file) boot.dat to your sd card root directory and Use SXOS payload to launch it.  
+2: Launch SXOS - and if you don't have __license-request.dat__ - this will be created on the root of your micro sd card.  
+3: Copy _license-request.dat_ from your switch to the extracted folder you download from this post.  
+4: Copy a clean _SXOS 3.10 boot.dat_ to the folder and rename it to boot.dat.orig (this will keep it from being modified).  
+5: Click __SXOS-GFX.exe__ - this will create a new folder called out that will contain some bin files which a created from the themes folder (you can remove this be clicking on SXOS-GFX.exe again)  
+6: If you have python 3.9 installed - run __SX_License_Hack.py__ and boot.dat and _license.dat_ should be created.  
+7: Copy the newly created boot.dat and license.dat to the root of your micro sd card.   
+8: Use SXOS payload to launch. 
+
+**note - SXOS extra hekate icon can be modded at line 310 (BL.write(b'argon/payloads/hekate.bin') to launch any payload you want, just change the path to the payload you with to launch, line 314 contains the name for that icon - once again change this to what you want.**
+
+Also autoboot code was commented out - you can re-enable this again in the script if you want to show the SXOS options during boot - or just press the volume + button to bring up the options menu. 
