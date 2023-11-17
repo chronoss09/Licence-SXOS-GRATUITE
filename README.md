@@ -1,4 +1,4 @@
-# LICENCE SXOS GRATUITE
+# LICENCE SXOS GRATUITE ![NS](https://img.shields.io/badge/-Nintendo%20Switch-e4000f?style=flat&logo=Nintendo%20Switch)
 
 Avec les dernières avancés, il n'est plus nécessaire de faire un spoof de licence SXOS, il est maintenant possible de générer une licence valide depuis l'empreinte digital de votre propre console (__fingerprint__). Il suffit juste du boot.dat du SXOS ainsi que du request-licence.dat générée par votre console.
 
